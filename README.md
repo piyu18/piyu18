@@ -6,7 +6,7 @@
  
  📫 You can reach out to me over my [Linkedin Profile](https://linkedin.com/in/priya-singh1803)
  
- ✍️ I regularly write articles related to Data Science over [Medium](https://medium.com/@priya1803)
+ ✍️ I regularly write articles related to Data Science over [Medium](https://medium.com/@priya1803) and [Analytics Vidhya](https://www.analyticsvidhya.com/blog/author/priya203/)
  
   
 <!---
